@@ -10,5 +10,11 @@ public class Calculate {
 
    System.out.println("Answer = " + c);
 
+   for (int i = 0; i > 10 ; i++) {
+     System.out.println("Hello, Prince");
+   }
+
+   System.out.println("AskAbdumalik & Prince_Hacker");
+
   }
 }
